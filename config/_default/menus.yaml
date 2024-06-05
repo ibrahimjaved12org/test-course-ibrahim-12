@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 844e6979-1fbe-44e9-ad9e-8f04228e1e02
+  name: ER1
+  pageRef: /external-resources/er1
+  weight: 10
+- identifier: 6d6c7f63-402d-4e02-b104-18f260a36143
+  name: ER2
+  pageRef: /pages/p1
+  weight: 20
