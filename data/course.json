@@ -1,0 +1,32 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test-course-ibrahim-12"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-course-ibrahim-12"
+  },
+  "course_title": "test-course-ibrahim-12",
+  "hide_download": false,
+  "course_description": "**test-course-ibrahim-12**\n\n***publish*****Publish**",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "test-course-ibrahim-12",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test-course-ibrahim-12"
+  },
+  "learning_resource_types": [],
+  "site_uid": "9053de3d-4584-4fd5-8000-1e9fb7fbea27",
+  "site_short_id": "test-course-ibrahim-12"
+}
