@@ -23,3 +23,7 @@ leftnav:
   name: ER6 ocw warning
   pageRef: /external-resources/er-6-ocw-with-warning
   weight: 60
+- identifier: 6cfc52b6-4b49-4c8e-8a81-c33e6f6a5da4
+  name: ER7 non OCW without warning
+  pageRef: /external-resources/er7-non-ocw-without-warning
+  weight: 70
