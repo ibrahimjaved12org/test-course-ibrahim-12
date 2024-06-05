@@ -7,3 +7,7 @@ leftnav:
   name: ER2
   pageRef: /pages/p1
   weight: 20
+- identifier: 9e0d7ec8-91b9-4566-94b5-5f8c11c4765c
+  name: ER3 OCW
+  pageRef: /external-resources/er3
+  weight: 30
