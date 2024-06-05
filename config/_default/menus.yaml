@@ -11,3 +11,15 @@ leftnav:
   name: ER3 OCW
   pageRef: /external-resources/er3
   weight: 30
+- identifier: 9c40e22f-02a9-4de3-89ab-dc3de5382301
+  name: ER4 live qa
+  pageRef: /external-resources/er4-live-qa
+  weight: 40
+- identifier: 5a748079-dbad-4ed3-b028-85217c774a57
+  name: ER5 MITOPEN
+  pageRef: /external-resources/er-5-mitopen
+  weight: 50
+- identifier: 89c3f102-b2ba-4d1b-a121-19184f43f605
+  name: ER6 ocw warning
+  pageRef: /external-resources/er-6-ocw-with-warning
+  weight: 60
